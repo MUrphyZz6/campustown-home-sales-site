@@ -1,6 +1,5 @@
-# [Your site's title]
+# campustown-home-sales-site
 
-## Start here (delete this section before you submit)
 
 This repository is your starting point for the Home Sales case. It already holds the dataset, its description sheet, project instructions for your AI coding agent, and outlines of the README and agent log that the case asks for.
 
